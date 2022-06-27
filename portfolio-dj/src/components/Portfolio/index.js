@@ -1,7 +1,7 @@
 import React from 'react';
 import datingApp from "../../assets/images/photo3.png";
 import newgen22marketing from "../../assets/images/photo1.png";
-import chatApp from "../../assets/images/phot4.png";
+import chatApp from "../../assets/images/photo4.png";
 import budgetApp from "../../assets/images/photo2.png";
 
 
@@ -19,7 +19,7 @@ function Portfolio() {
         </a>
         <a href="https://github.com/Dmj22/Mula">
             <img
-                src={Mula}
+                src={budgetApp}
                 alt="budgetApp"
                 className="screenshot"
             />
