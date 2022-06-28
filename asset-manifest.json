@@ -1,28 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio-dj/static/css/main.90e75332.chunk.css",
-    "main.js": "/portfolio-dj/static/js/main.619e3f42.chunk.js",
-    "main.js.map": "/portfolio-dj/static/js/main.619e3f42.chunk.js.map",
-    "runtime-main.js": "/portfolio-dj/static/js/runtime-main.15c46cdb.js",
-    "runtime-main.js.map": "/portfolio-dj/static/js/runtime-main.15c46cdb.js.map",
-    "static/js/2.cb9f38b9.chunk.js": "/portfolio-dj/static/js/2.cb9f38b9.chunk.js",
-    "static/js/2.cb9f38b9.chunk.js.map": "/portfolio-dj/static/js/2.cb9f38b9.chunk.js.map",
-    "static/js/3.32408b12.chunk.js": "/portfolio-dj/static/js/3.32408b12.chunk.js",
-    "static/js/3.32408b12.chunk.js.map": "/portfolio-dj/static/js/3.32408b12.chunk.js.map",
-    "index.html": "/portfolio-dj/index.html",
-    "static/css/main.90e75332.chunk.css.map": "/portfolio-dj/static/css/main.90e75332.chunk.css.map",
-    "static/js/2.cb9f38b9.chunk.js.LICENSE.txt": "/portfolio-dj/static/js/2.cb9f38b9.chunk.js.LICENSE.txt",
-    "static/media/daquan resume.c896569c.pdf": "/portfolio-dj/static/media/daquan resume.c896569c.pdf",
-    "static/media/photo1.091c6433.png": "/portfolio-dj/static/media/photo1.091c6433.png",
-    "static/media/photo2.2e05e38b.png": "/portfolio-dj/static/media/photo2.2e05e38b.png",
-    "static/media/photo3.858478ba.png": "/portfolio-dj/static/media/photo3.858478ba.png",
-    "static/media/photo4.84590745.png": "/portfolio-dj/static/media/photo4.84590745.png",
-    "static/media/super.a25c50fd.JPG": "/portfolio-dj/static/media/super.a25c50fd.JPG"
+    "main.css": "/Portfolio-DJ/static/css/main.8832ea63.css",
+    "main.js": "/Portfolio-DJ/static/js/main.59c15c6a.js",
+    "static/js/787.43cf2d8a.chunk.js": "/Portfolio-DJ/static/js/787.43cf2d8a.chunk.js",
+    "static/media/photo1.png": "/Portfolio-DJ/static/media/photo1.091c6433b605876b4292.png",
+    "static/media/super.JPG": "/Portfolio-DJ/static/media/super.a25c50fd87b9e753db97.JPG",
+    "static/media/photo3.png": "/Portfolio-DJ/static/media/photo3.858478ba1bb028209de6.png",
+    "static/media/photo2.png": "/Portfolio-DJ/static/media/photo2.2e05e38beb1478282544.png",
+    "static/media/photo4.png": "/Portfolio-DJ/static/media/photo4.845907456735d65bf09a.png",
+    "static/media/daquan resume.pdf": "/Portfolio-DJ/static/media/daquan resume.c896569c341d8fe39419.pdf",
+    "index.html": "/Portfolio-DJ/index.html",
+    "main.8832ea63.css.map": "/Portfolio-DJ/static/css/main.8832ea63.css.map",
+    "main.59c15c6a.js.map": "/Portfolio-DJ/static/js/main.59c15c6a.js.map",
+    "787.43cf2d8a.chunk.js.map": "/Portfolio-DJ/static/js/787.43cf2d8a.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.15c46cdb.js",
-    "static/js/2.cb9f38b9.chunk.js",
-    "static/css/main.90e75332.chunk.css",
-    "static/js/main.619e3f42.chunk.js"
+    "static/css/main.8832ea63.css",
+    "static/js/main.59c15c6a.js"
   ]
 }
