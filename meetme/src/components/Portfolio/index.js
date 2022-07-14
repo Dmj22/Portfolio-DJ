@@ -38,6 +38,13 @@ function Portfolio() {
                 className="screenshot"
             />
         </a>
+        <a href="https://sdavis525.github.io/Built-Not-Bought/">
+            <img
+                src={WorkoutApp}
+                alt="app"
+                className="screenshot"
+            />
+        </a>
       </section>
     );
   }
