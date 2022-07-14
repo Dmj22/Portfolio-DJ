@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/Portfolio-DJ/static/css/main.8832ea63.css",
-    "main.js": "/Portfolio-DJ/static/js/main.59c15c6a.js",
+    "main.js": "/Portfolio-DJ/static/js/main.9fab8a07.js",
     "static/js/787.43cf2d8a.chunk.js": "/Portfolio-DJ/static/js/787.43cf2d8a.chunk.js",
     "static/media/photo1.png": "/Portfolio-DJ/static/media/photo1.091c6433b605876b4292.png",
     "static/media/super.JPG": "/Portfolio-DJ/static/media/super.a25c50fd87b9e753db97.JPG",
+    "static/media/bnb.jpg": "/Portfolio-DJ/static/media/bnb.a6607e30c9f2ea9602af.jpg",
     "static/media/photo3.png": "/Portfolio-DJ/static/media/photo3.858478ba1bb028209de6.png",
     "static/media/photo2.png": "/Portfolio-DJ/static/media/photo2.2e05e38beb1478282544.png",
     "static/media/photo4.png": "/Portfolio-DJ/static/media/photo4.845907456735d65bf09a.png",
     "static/media/daquan resume.pdf": "/Portfolio-DJ/static/media/daquan resume.c896569c341d8fe39419.pdf",
     "index.html": "/Portfolio-DJ/index.html",
     "main.8832ea63.css.map": "/Portfolio-DJ/static/css/main.8832ea63.css.map",
-    "main.59c15c6a.js.map": "/Portfolio-DJ/static/js/main.59c15c6a.js.map",
+    "main.9fab8a07.js.map": "/Portfolio-DJ/static/js/main.9fab8a07.js.map",
     "787.43cf2d8a.chunk.js.map": "/Portfolio-DJ/static/js/787.43cf2d8a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8832ea63.css",
-    "static/js/main.59c15c6a.js"
+    "static/js/main.9fab8a07.js"
   ]
 }
